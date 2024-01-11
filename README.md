@@ -7,7 +7,7 @@
 - Now, use the provided instructions to launch the API.
 
 ```
-npm install
+npm i
 npm start
 ```
 
